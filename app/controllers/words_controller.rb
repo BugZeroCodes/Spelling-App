@@ -28,7 +28,7 @@ class WordsController < ApplicationController
 
     respond_to do |format|
       if @word.save
-        format.html { redirect_to @word, notice: 'Word was successfully created.' }
+        format.html { redirect_to @word, notice: "#{@word.text} was successfully created." }
         format.json { render :show, status: :created, location: @word }
       else
         format.html { render :new }
@@ -42,7 +42,7 @@ class WordsController < ApplicationController
   def update
     respond_to do |format|
       if @word.update(word_params)
-        format.html { redirect_to @word, notice: 'Word was successfully updated.' }
+        format.html { redirect_to @word, notice: "#{@word.text} was successfully updated." }
         format.json { render :show, status: :ok, location: @word }
       else
         format.html { render :edit }
@@ -56,7 +56,7 @@ class WordsController < ApplicationController
   def destroy
     @word.destroy
     respond_to do |format|
-      format.html { redirect_to words_url, notice: 'Word was successfully destroyed.' }
+      format.html { redirect_to words_url, notice: "#{@word.text} was successfully updated." }
       format.json { head :no_content }
     end
   end
@@ -69,6 +69,6 @@ class WordsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def word_params
-      params.require(:word).permit(:text)
+      params.require(:word).permit(:text, :list_id)
     end
 end
