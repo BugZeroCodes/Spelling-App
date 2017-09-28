@@ -1,5 +1,5 @@
 class WordsController < ApplicationController
-  before_action :set_word, only: [:show, :edit, :update, :destroy]
+  before_action :set_word, only: [:show, :edit, :update, :destroy, :clear_projects]
 
   # GET /words
   # GET /words.json
@@ -57,6 +57,14 @@ class WordsController < ApplicationController
     @word.destroy
     respond_to do |format|
       format.html { redirect_to words_url, notice: "#{@word.text} was successfully updated." }
+      format.json { head :no_content }
+    end
+  end
+
+  def clear_projects
+    @words = []
+    respond_to do |format|
+      format.html { redirect_to :root, notice: 'Successfully deleted all words.'}
       format.json { head :no_content }
     end
   end
