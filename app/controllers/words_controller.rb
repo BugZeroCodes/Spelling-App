@@ -1,9 +1,5 @@
 class WordsController < ApplicationController
-<<<<<<< HEAD
   before_action :set_word, only: [:show, :edit, :update, :destroy, :clear_words]
-=======
-  before_action :set_word, only: [:show, :edit, :update, :destroy, :clear_projects]
->>>>>>> 3017e56c97db5061ae12d373127403ac6797f2c9
 
   # GET /words
   # GET /words.json
@@ -65,11 +61,7 @@ class WordsController < ApplicationController
     end
   end
 
-<<<<<<< HEAD
   def clear_words
-=======
-  def clear_projects
->>>>>>> 3017e56c97db5061ae12d373127403ac6797f2c9
     @words = []
     respond_to do |format|
       format.html { redirect_to :root, notice: 'Successfully deleted all words.'}
