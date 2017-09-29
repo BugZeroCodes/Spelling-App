@@ -56,7 +56,7 @@ class WordsController < ApplicationController
   def destroy
     @word.destroy
     respond_to do |format|
-      format.html { redirect_to words_url, notice: "#{@word.text} was successfully updated." }
+      format.html { redirect_to words_url, notice: "#{@word.text} was successfully deleted." }
       format.json { head :no_content }
     end
   end
