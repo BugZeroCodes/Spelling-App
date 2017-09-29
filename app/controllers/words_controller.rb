@@ -62,7 +62,7 @@ class WordsController < ApplicationController
   end
 
   def clear_words
-    @words = []
+    Word.destroy_all
     respond_to do |format|
       format.html { redirect_to :root, notice: 'Successfully deleted all words.'}
       format.json { head :no_content }
