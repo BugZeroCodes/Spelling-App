@@ -77,7 +77,6 @@ class WordsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def word_params
-      byebug
       params.require(:word).permit(:text, :list_id)
     end
 end

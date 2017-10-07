@@ -17,7 +17,7 @@
   </div>
 
   <div class="field">
-    <%= select :list, :list_id, List.all.collect{ |list| [list.contents, list.id] } %>
+    <%= select 'word', 'list_id', List.all.collect{ |list| [list.contents, list.id] } %>
   </div>
 
   <div class="actions">
