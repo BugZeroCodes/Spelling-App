@@ -1,8 +1,10 @@
-<p id="notice"><%= notice %></p>
-
 <p>
   <strong>Text:</strong>
   <%= @word.text %>
+</p>
+
+<p>
+  List: <strong><%= @word.list.contents %></strong>
 </p>
 
 <%= link_to 'Edit', edit_word_path(@word) %> |

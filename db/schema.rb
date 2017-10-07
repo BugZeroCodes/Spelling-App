@@ -9,12 +9,14 @@
 # you'll amass, the slower it'll run and the greater likelihood for issues).
 #
 # It's strongly recommended that you check this file into your version control system.
-ActiveRecord::Schema.define(version: 20170927175312) do
+
+ActiveRecord::Schema.define(version: 20171007180239) do
 
   create_table "lists", force: :cascade do |t|
     t.text "contents"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "grade_number"
   end
 
   create_table "words", force: :cascade do |t|
