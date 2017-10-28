@@ -11,5 +11,5 @@ List.destroy_all
 CSV.foreach(Rails.root + 'db/Spelling Seeds - 5th Grade.csv', :headers => true) do |row|
   next if row[2].blank?
   l = List.find_or_create_by(id: row[1])
-  Word.create!([{text: row[2], list: l, type: :pattern_word}])
+  Word.create!([{text: row[2], list: l, word_type: 2}])
 end

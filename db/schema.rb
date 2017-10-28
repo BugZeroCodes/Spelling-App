@@ -24,7 +24,7 @@ ActiveRecord::Schema.define(version: 20171028153544) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.integer "list_id"
-    t.integer "type"
+    t.integer "word_type"
   end
 
 end
