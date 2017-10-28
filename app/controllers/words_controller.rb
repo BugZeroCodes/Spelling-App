@@ -26,6 +26,11 @@ class WordsController < ApplicationController
     render 'index'
   end
 
+  def filter_by_list
+    @words = Word.where(list_id: params[:list_id]).page(params[:page])
+    render 'index'
+  end
+
   # POST /words
   # POST /words.json
   def create

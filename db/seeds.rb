@@ -9,6 +9,10 @@ List.destroy_all
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 CSV.foreach(Rails.root + 'db/Spelling Seeds - 5th Grade.csv', :headers => true) do |row|
-  l = List.find_or_create_by(id: row[1], contents: row[2])
-  Word.create!([{text: row[2], list: l, word_type: 2}])
+  l = List.find_or_create_by(id: row[1], contents: row[2], grade_number: row[0])
+  Word.create!([{text: row[3], list: l, word_type: row[4]}])
+end
+CSV.foreach(Rails.root + 'db/Spelling Seeds - 3rd Grade.csv', :headers => true) do |row|
+  l = List.find_or_create_by(id: row[1], contents: row[2], grade_number: row[0])
+  Word.create!([{text: row[3], list: l, word_type: row[4]}])
 end

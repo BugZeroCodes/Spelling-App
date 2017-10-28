@@ -12,6 +12,12 @@ class ListsController < ApplicationController
   def show
   end
 
+  def filter_by_grade_number
+    @lists = List.where(grade_number: params[:grade_number])
+    @grade_number = params[:grade_number]
+    render 'index'
+  end
+
   # GET /lists/new
   def new
     @list = List.new
