@@ -1,10 +1,10 @@
 class WordsController < ApplicationController
-  before_action :set_word, only: [:show, :edit, :update, :destroy, :clear_words]
+  before_action :set_word, only: [:show, :edit, :update, :destroy]
 
   # GET /words
   # GET /words.json
   def index
-    @words = Word.all
+    @words = Word.all.page(params[:page])
   end
 
   # GET /words/1
@@ -19,6 +19,11 @@ class WordsController < ApplicationController
 
   # GET /words/1/edit
   def edit
+  end
+
+  def filter_by_word_type
+    @words = Word.where(word_type: params[:word_type]).page(params[:page])
+    render 'index'
   end
 
   # POST /words
@@ -57,14 +62,6 @@ class WordsController < ApplicationController
     @word.destroy
     respond_to do |format|
       format.html { redirect_to words_url, notice: "#{@word.text} was successfully deleted." }
-      format.json { head :no_content }
-    end
-  end
-
-  def clear_words
-    Word.destroy_all
-    respond_to do |format|
-      format.html { redirect_to :root, notice: 'Successfully deleted all words.'}
       format.json { head :no_content }
     end
   end

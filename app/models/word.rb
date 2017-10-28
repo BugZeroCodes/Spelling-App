@@ -3,4 +3,5 @@ class Word < ApplicationRecord
   belongs_to :list
 
   validates :text, presence: true
+  paginates_per 10
 end
