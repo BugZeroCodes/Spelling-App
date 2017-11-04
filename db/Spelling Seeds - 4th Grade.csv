@@ -1,0 +1,641 @@
+Grade Level,List number,List Descriptions,Pattern Words,Word Type
+4th,1,"Short a; long a: a_e, ai, ay, ei",past,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",strain,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",weight,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",today,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",talent,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",waist,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",basketball,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",passed,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",waste,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",master,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",vein,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",relay,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",escape,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",magnet,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",crayon,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",remain,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",safety,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",album,pattern_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",tommorrow,challenge_words
+4th,1,"Short a; long a: a_e, ai, ay, ei",yesterday,challenge_words
+4th,2,"Short e: e, ea; long e: ea, ee",kept,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",speech,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",breath,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",hello,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",season,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",squeeze,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",else,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",lesson,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",meant,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",sweater,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",breathe,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",freedom,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",repeat,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",wealth,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",length,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",leather,pattern_words
+4th,2,"Short e: e, ea; long e: ea, ee",waste,review_word
+4th,2,"Short e: e, ea; long e: ea, ee",master,review_word
+4th,2,"Short e: e, ea; long e: ea, ee",a lot,challenge_words
+4th,2,"Short e: e, ea; long e: ea, ee",all right,challenge_words
+4th,3,"Short i, long i: i_e, igh, y",size,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",visit,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",polite,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",deny,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",pride,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",style,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",finger,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",delight,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",wildlife,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",drive,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",liquid,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",kitchen,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",pilot,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",twilight,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",rely,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",type,pattern_words
+4th,3,"Short i, long i: i_e, igh, y",breath,review_word
+4th,3,"Short i, long i: i_e, igh, y",reason,review_word
+4th,3,"Short i, long i: i_e, igh, y",inning,challenge_words
+4th,3,"Short i, long i: i_e, igh, y",surpise,challenge_words
+4th,4,"Short o;long o: o, oa, o_e, ow",shown,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",common,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",soap,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",problem,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",quote,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",bowling,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",growth,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",shone,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",product,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",fellowship,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",contest,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",shadow,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",coax,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",scroll,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",topic,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",suppose,pattern_words
+4th,4,"Short o;long o: o, oa, o_e, ow",visit,review_word
+4th,4,"Short o;long o: o, oa, o_e, ow",style,review_word
+4th,4,"Short o;long o: o, oa, o_e, ow",though,challenge_words
+4th,4,"Short o;long o: o, oa, o_e, ow",clothes,challenge_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",group,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",discuss,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",raccoon,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",grew,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",suffer,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",proof,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",value,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",puppet,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",suit,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",unit,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",salute,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",summit,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",nephew,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",rescue,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",scuba,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",youth,pattern_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",problem,review_word
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",suppose,review_word
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",canoe,challenge_words
+4th,5,"/û/: u; /ōō/: ew, oo, u, u_e, ui; /yōō/: ew, u, ue",shoes,challenge_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",quizzes,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",included,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",straying,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",answered,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",stirring,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",owed,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",strangest,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",admitted,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",invited,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",greater,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",controlling,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",delaying,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",shallower,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",locating,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",equipping,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",sampled,pattern_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",value,review_word
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",discuss,review_word
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",height,challenge_words
+4th,6,"Suffix rules: no change to the base word, double the final consanant, drop the final e",tired,challenge_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",scaring,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",harvest,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",form,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",dairy,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",fourth,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",compare,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",startled,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",forth,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",scorekeeper,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",ordered,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",forest,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",supporting,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",adores,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",prairie,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",declare,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",course,pattern_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",locating,review_word
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",admitted,review_word
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",parent,challenge_words
+4th,7,"/är/: ar; /âr/: air, are; /ôr/: or, ore, our",paragraph,challenge_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",heard,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",appeared,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",squirming,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",purr,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",journal,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",herd,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",perhaps,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",searches,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",servant,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",steer,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",journey,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",wary,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",perfect,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",career,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",circle,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",sturdy,pattern_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",compare,review_word
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",fourth,review_word
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",during,challenge_words
+4th,8,"/ûr/: ear, er, ir, our, ur; /îr/: ear, eer",library,challenge_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",proud,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",toil,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",sprout,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",royal,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",tower,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",moist,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",mouth,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",powder,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",crowd,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",oyster,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",employed,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",surround,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",avoid,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",account,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",ounce,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",appointing,pattern_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",servant,review_word
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",appeared,review_word
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",improve,challenge_words
+4th,9,"/oi/: oi, oy, ; /ou/: ou, ow",shoulder,challenge_words
+4th,10,"/ô/: au, aw, a followed by l, ough",hawk,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",ought,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",hauling,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",launches,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",FALSE,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",laundry,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",crawling,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",causing,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",drawn,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",hall,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",sought,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",fault,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",stalk,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",applause,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",exalted,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",faucet,pattern_words
+4th,10,"/ô/: au, aw, a followed by l, ough",employed,review_word
+4th,10,"/ô/: au, aw, a followed by l, ough",surround,review_word
+4th,10,"/ô/: au, aw, a followed by l, ough",laughter,challenge_words
+4th,10,"/ô/: au, aw, a followed by l, ough",cough,challenge_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",empties,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",submitting,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",tidiest,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",carving,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",copied,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",skies,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",preferred,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",arrived,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",solved,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",heaviest,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",rubies,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",bouncing,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",prepared,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",applied,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",occured,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",hungrier,pattern_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",exalted,review_word
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",causing,review_word
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",anymore,challenge_words
+4th,11,"Suffix rules: double the final constant, drop the final e, change y to i before a suffixe beginning with e",wherever,challenge_words
+4th,12,"/k/: c, ch, ck",cord,pattern_words
+4th,12,"/k/: c, ch, ck",scale,pattern_words
+4th,12,"/k/: c, ch, ck",tickets,pattern_words
+4th,12,"/k/: c, ch, ck",basic,pattern_words
+4th,12,"/k/: c, ch, ck",chord,pattern_words
+4th,12,"/k/: c, ch, ck",picnic,pattern_words
+4th,12,"/k/: c, ch, ck",school,pattern_words
+4th,12,"/k/: c, ch, ck",Christian,pattern_words
+4th,12,"/k/: c, ch, ck",nickels,pattern_words
+4th,12,"/k/: c, ch, ck",echo,pattern_words
+4th,12,"/k/: c, ch, ck",anchor,pattern_words
+4th,12,"/k/: c, ch, ck",public,pattern_words
+4th,12,"/k/: c, ch, ck",pocke,pattern_words
+4th,12,"/k/: c, ch, ck",schedule,pattern_words
+4th,12,"/k/: c, ch, ck",choursus,pattern_words
+4th,12,"/k/: c, ch, ck",chronicle,pattern_words
+4th,12,"/k/: c, ch, ck",prepared,review_word
+4th,12,"/k/: c, ch, ck",applied,review_word
+4th,12,"/k/: c, ch, ck",character,challenge_words
+4th,12,"/k/: c, ch, ck",chocolate,challenge_words
+4th,13,Soft c,fleece,pattern_words
+4th,13,Soft c,ceiling,pattern_words
+4th,13,Soft c,cycle,pattern_words
+4th,13,Soft c,cease,pattern_words
+4th,13,Soft c,recite,pattern_words
+4th,13,Soft c,force,pattern_words
+4th,13,Soft c,concert,pattern_words
+4th,13,Soft c,braces,pattern_words
+4th,13,Soft c,glanced,pattern_words
+4th,13,Soft c,citrus,pattern_words
+4th,13,Soft c,advice,pattern_words
+4th,13,Soft c,decided,pattern_words
+4th,13,Soft c,cypress,pattern_words
+4th,13,Soft c,canceling,pattern_words
+4th,13,Soft c,source,pattern_words
+4th,13,Soft c,recent,pattern_words
+4th,13,Soft c,Christian,review_word
+4th,13,Soft c,tickets,review_word
+4th,13,Soft c,succeed,challenge_words
+4th,13,Soft c,sentence,challenge_words
+4th,14,Soft g; unstressed syllables ending in age,sponge,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,pledge,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,change,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,storage,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,gerbil,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,ridge,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,package,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,orange,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,message,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,ledge,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,courage,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,giraffer,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,bandage,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,general,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,image,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,hinge,pattern_words
+4th,14,Soft g; unstressed syllables ending in age,decided,review_word
+4th,14,Soft g; unstressed syllables ending in age,force,review_word
+4th,14,Soft g; unstressed syllables ending in age,suggest,challenge_words
+4th,14,Soft g; unstressed syllables ending in age,knowledge,challenge_words
+4th,15,Silent consonants,sign,pattern_words
+4th,15,Silent consonants,doubled,pattern_words
+4th,15,Silent consonants,hymn,pattern_words
+4th,15,Silent consonants,islands,pattern_words
+4th,15,Silent consonants,calm,pattern_words
+4th,15,Silent consonants,debt,pattern_words
+4th,15,Silent consonants,scene,pattern_words
+4th,15,Silent consonants,autumn,pattern_words
+4th,15,Silent consonants,palm,pattern_words
+4th,15,Silent consonants,designing,pattern_words
+4th,15,Silent consonants,column,pattern_words
+4th,15,Silent consonants,scissors,pattern_words
+4th,15,Silent consonants,almond,pattern_words
+4th,15,Silent consonants,subtle,pattern_words
+4th,15,Silent consonants,scenery,pattern_words
+4th,15,Silent consonants,reign,pattern_words
+4th,15,Silent consonants,message,review_word
+4th,15,Silent consonants,change,review_word
+4th,15,Silent consonants,rhythm,challenge_words
+4th,15,Silent consonants,rhyme,challenge_words
+4th,16,"Short u: o, ou",front,pattern_words
+4th,16,"Short u: o, ou",double,pattern_words
+4th,16,"Short u: o, ou",money,pattern_words
+4th,16,"Short u: o, ou",country,pattern_words
+4th,16,"Short u: o, ou",month,pattern_words
+4th,16,"Short u: o, ou",young,pattern_words
+4th,16,"Short u: o, ou",wonder,pattern_words
+4th,16,"Short u: o, ou",touchdown,pattern_words
+4th,16,"Short u: o, ou",dozen,pattern_words
+4th,16,"Short u: o, ou",cover,pattern_words
+4th,16,"Short u: o, ou",couple,pattern_words
+4th,16,"Short u: o, ou",monkey,pattern_words
+4th,16,"Short u: o, ou",rough,pattern_words
+4th,16,"Short u: o, ou",tough,pattern_words
+4th,16,"Short u: o, ou",shovel,pattern_words
+4th,16,"Short u: o, ou",cousin,pattern_words
+4th,16,"Short u: o, ou",designing,review_word
+4th,16,"Short u: o, ou",hymn,review_word
+4th,16,"Short u: o, ou",among,challenge_words
+4th,16,"Short u: o, ou",company,challenge_words
+4th,17,"Long e: ey, i, ie, i_e",cookie,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",skiing,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",belief,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",honey,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",turkey,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",brief,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",keychain,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",goalie,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",believe,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",valley,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",machine,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",acheive,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",police,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",niece,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",relief,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",volleyball,pattern_words
+4th,17,"Long e: ey, i, ie, i_e",wonder,review_word
+4th,17,"Long e: ey, i, ie, i_e",double,review_word
+4th,17,"Long e: ey, i, ie, i_e",recipe,challenge_words
+4th,17,"Long e: ey, i, ie, i_e",spaghetti,challenge_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",secret,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",lizard,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",polish,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",oven,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",exit,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",human,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",program,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",salad,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",moment,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",foucus,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",rapid,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",item,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",vibrate,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",climate,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",novel,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",unite,pattern_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",believe,review_word
+4th,18,"V•CV, V•CCV, and VC•V patterns",machine,review_word
+4th,18,"V•CV, V•CCV, and VC•V patterns",evening,challenge_words
+4th,18,"V•CV, V•CCV, and VC•V patterns",between,challenge_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",children,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",jacket,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",kingdom,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",complete,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",pumpkin,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",dolphin,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",rather,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",farther,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",purchase,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",sandwich,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",lobster,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",inspect,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",athlete,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",whether,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",complain,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",instant,pattern_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",program,review_word
+4th,19,"VCC•V, VCC•CV, and VC•CCV",polish,review_word
+4th,19,"VCC•V, VCC•CV, and VC•CCV",profit,challenge_words
+4th,19,"VCC•V, VCC•CV, and VC•CCV",prophet,challenge_words
+4th,20,V•V Pattern,poem,pattern_words
+4th,20,V•V Pattern,duet,pattern_words
+4th,20,V•V Pattern,idea,pattern_words
+4th,20,V•V Pattern,lion,pattern_words
+4th,20,V•V Pattern,usual,pattern_words
+4th,20,V•V Pattern,create,pattern_words
+4th,20,V•V Pattern,science,pattern_words
+4th,20,V•V Pattern,violin,pattern_words
+4th,20,V•V Pattern,react,pattern_words
+4th,20,V•V Pattern,quiet,pattern_words
+4th,20,V•V Pattern,period,pattern_words
+4th,20,V•V Pattern,fuel,pattern_words
+4th,20,V•V Pattern,realize,pattern_words
+4th,20,V•V Pattern,trio,pattern_words
+4th,20,V•V Pattern,piano,pattern_words
+4th,20,V•V Pattern,area,pattern_words
+4th,20,V•V Pattern,purchase,review_word
+4th,20,V•V Pattern,kingdom,review_word
+4th,20,V•V Pattern,language,challenge_words
+4th,20,V•V Pattern,vacuum,challenge_words
+4th,21,"Suffixes ful, less, ment",movement,pattern_words
+4th,21,"Suffixes ful, less, ment",wonderful,pattern_words
+4th,21,"Suffixes ful, less, ment",cloudless,pattern_words
+4th,21,"Suffixes ful, less, ment",powerful,pattern_words
+4th,21,"Suffixes ful, less, ment",skillful,pattern_words
+4th,21,"Suffixes ful, less, ment",equipment,pattern_words
+4th,21,"Suffixes ful, less, ment",useful,pattern_words
+4th,21,"Suffixes ful, less, ment",careless,pattern_words
+4th,21,"Suffixes ful, less, ment",payment,pattern_words
+4th,21,"Suffixes ful, less, ment",thoughtful,pattern_words
+4th,21,"Suffixes ful, less, ment",agreement,pattern_words
+4th,21,"Suffixes ful, less, ment",peaceful,pattern_words
+4th,21,"Suffixes ful, less, ment",harmless,pattern_words
+4th,21,"Suffixes ful, less, ment",colorful,pattern_words
+4th,21,"Suffixes ful, less, ment",respectful,pattern_words
+4th,21,"Suffixes ful, less, ment",treatments,pattern_words
+4th,21,"Suffixes ful, less, ment",create,review_word
+4th,21,"Suffixes ful, less, ment",idea,review_word
+4th,21,"Suffixes ful, less, ment",judgment,challenge_words
+4th,21,"Suffixes ful, less, ment",fufill,challenge_words
+4th,22,"Suffixes ly, ness, y",bravely,pattern_words
+4th,22,"Suffixes ly, ness, y",weakness,pattern_words
+4th,22,"Suffixes ly, ness, y",dirty,pattern_words
+4th,22,"Suffixes ly, ness, y",closely,pattern_words
+4th,22,"Suffixes ly, ness, y",blindness,pattern_words
+4th,22,"Suffixes ly, ness, y",noisy,pattern_words
+4th,22,"Suffixes ly, ness, y",fitness,pattern_words
+4th,22,"Suffixes ly, ness, y",friendly,pattern_words
+4th,22,"Suffixes ly, ness, y",worthy,pattern_words
+4th,22,"Suffixes ly, ness, y",finally,pattern_words
+4th,22,"Suffixes ly, ness, y",guilty,pattern_words
+4th,22,"Suffixes ly, ness, y",forgiveness,pattern_words
+4th,22,"Suffixes ly, ness, y",willingly,pattern_words
+4th,22,"Suffixes ly, ness, y",breezy,pattern_words
+4th,22,"Suffixes ly, ness, y",surely,pattern_words
+4th,22,"Suffixes ly, ness, y",suddenly,pattern_words
+4th,22,"Suffixes ly, ness, y",wonderful,review_word
+4th,22,"Suffixes ly, ness, y",equipment,review_word
+4th,22,"Suffixes ly, ness, y",gently,challenge_words
+4th,22,"Suffixes ly, ness, y",truly,challenge_words
+4th,23,"Suffixes er, or",voter,pattern_words
+4th,23,"Suffixes er, or",builder,pattern_words
+4th,23,"Suffixes er, or",visitor,pattern_words
+4th,23,"Suffixes er, or",skater,pattern_words
+4th,23,"Suffixes er, or",listener,pattern_words
+4th,23,"Suffixes er, or",sailor,pattern_words
+4th,23,"Suffixes er, or",owner,pattern_words
+4th,23,"Suffixes er, or",composer,pattern_words
+4th,23,"Suffixes er, or",instructor,pattern_words
+4th,23,"Suffixes er, or",inventor,pattern_words
+4th,23,"Suffixes er, or",reporter,pattern_words
+4th,23,"Suffixes er, or",director,pattern_words
+4th,23,"Suffixes er, or",manager,pattern_words
+4th,23,"Suffixes er, or",editor,pattern_words
+4th,23,"Suffixes er, or",rescuer,pattern_words
+4th,23,"Suffixes er, or",announcer,pattern_words
+4th,23,"Suffixes er, or",fitness,review_word
+4th,23,"Suffixes er, or",finally,review_word
+4th,23,"Suffixes er, or",favorite,challenge_words
+4th,23,"Suffixes er, or",imagine,challenge_words
+4th,24,"Prefixes dis, pre, un",discover,pattern_words
+4th,24,"Prefixes dis, pre, un",unable,pattern_words
+4th,24,"Prefixes dis, pre, un",precut,pattern_words
+4th,24,"Prefixes dis, pre, un",discontent,pattern_words
+4th,24,"Prefixes dis, pre, un",unbuckle,pattern_words
+4th,24,"Prefixes dis, pre, un",preheat,pattern_words
+4th,24,"Prefixes dis, pre, un",unloading,pattern_words
+4th,24,"Prefixes dis, pre, un",displease,pattern_words
+4th,24,"Prefixes dis, pre, un",preview,pattern_words
+4th,24,"Prefixes dis, pre, un",unselfish,pattern_words
+4th,24,"Prefixes dis, pre, un",discomfort,pattern_words
+4th,24,"Prefixes dis, pre, un",unstable,pattern_words
+4th,24,"Prefixes dis, pre, un",disconnect,pattern_words
+4th,24,"Prefixes dis, pre, un",prepackaged,pattern_words
+4th,24,"Prefixes dis, pre, un",disappear,pattern_words
+4th,24,"Prefixes dis, pre, un",unusual,pattern_words
+4th,24,"Prefixes dis, pre, un",composer,review_word
+4th,24,"Prefixes dis, pre, un",instructor,review_word
+4th,24,"Prefixes dis, pre, un",business,challenge_words
+4th,24,"Prefixes dis, pre, un",busyness,challenge_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",miscount,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",tomatoes,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",halves,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",misplace,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",heroes,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",hooves,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",misspell,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",misuse,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",shelves,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",knives,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",misjudge,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",loaves,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",misunderstand,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",potatoes,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",wives,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",misbehaves,pattern_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",unable,review_word
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",displease,review_word
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",intresting,challenge_words
+4th,25,"Prefix mis; plurals: words ending in f or fe, words ending in a consonant plus o",several,challenge_words
+4th,26,y as a vowel,symbol,pattern_words
+4th,26,y as a vowel,cozy,pattern_words
+4th,26,y as a vowel,bicycle,pattern_words
+4th,26,y as a vowel,daily,pattern_words
+4th,26,y as a vowel,glory,pattern_words
+4th,26,y as a vowel,trophy,pattern_words
+4th,26,y as a vowel,cymbal,pattern_words
+4th,26,y as a vowel,steady,pattern_words
+4th,26,y as a vowel,system,pattern_words
+4th,26,y as a vowel,symphony,pattern_words
+4th,26,y as a vowel,crystal,pattern_words
+4th,26,y as a vowel,gymnastics,pattern_words
+4th,26,y as a vowel,county,pattern_words
+4th,26,y as a vowel,mystery,pattern_words
+4th,26,y as a vowel,symptom,pattern_words
+4th,26,y as a vowel,sympathy,pattern_words
+4th,26,y as a vowel,misplace,review_word
+4th,26,y as a vowel,heroes,review_word
+4th,26,y as a vowel,energy,challenge_words
+4th,26,y as a vowel,necessary,challenge_words
+4th,27,"Unstressed vowel patterns ar, er, or",flavor,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",layer,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",vapor,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",humor,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",author,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",dollar,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",silver,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",labor,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",doctor,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",solar,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",proper,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",tractor,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",major,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",calendar,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",motor,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",nectar,pattern_words
+4th,27,"Unstressed vowel patterns ar, er, or",glory,review_word
+4th,27,"Unstressed vowel patterns ar, er, or",symbol,review_word
+4th,27,"Unstressed vowel patterns ar, er, or",mirror,challenge_words
+4th,27,"Unstressed vowel patterns ar, er, or",error,challenge_words
+4th,28,"Unstressed vowel patterns al, el, le",medal,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",level,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",ankle,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",total,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",normal,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",tunnel,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",metal,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",disciple,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",model,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",squirrel,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",signal,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",apostle,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",petal,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",marvel,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",local,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",pedal,pattern_words
+4th,28,"Unstressed vowel patterns al, el, le",labor,review_word
+4th,28,"Unstressed vowel patterns al, el, le",layer,review_word
+4th,28,"Unstressed vowel patterns al, el, le",angel,challenge_words
+4th,28,"Unstressed vowel patterns al, el, le",angle,challenge_words
+4th,29,Review of prefixes and suffixes,faithful,pattern_words
+4th,29,Review of prefixes and suffixes,unhealthy,pattern_words
+4th,29,Review of prefixes and suffixes,reschedule,pattern_words
+4th,29,Review of prefixes and suffixes,thirsty,pattern_words
+4th,29,Review of prefixes and suffixes,forceful,pattern_words
+4th,29,Review of prefixes and suffixes,hourly,pattern_words
+4th,29,Review of prefixes and suffixes,misstepped,pattern_words
+4th,29,Review of prefixes and suffixes,researches,pattern_words
+4th,29,Review of prefixes and suffixes,removed,pattern_words
+4th,29,Review of prefixes and suffixes,discovery,pattern_words
+4th,29,Review of prefixes and suffixes,reinjure,pattern_words
+4th,29,Review of prefixes and suffixes,mispronounce,pattern_words
+4th,29,Review of prefixes and suffixes,relocating,pattern_words
+4th,29,Review of prefixes and suffixes,frequently,pattern_words
+4th,29,Review of prefixes and suffixes,discouragement,pattern_words
+4th,29,Review of prefixes and suffixes,refueling,pattern_words
+4th,29,Review of prefixes and suffixes,level,review_word
+4th,29,Review of prefixes and suffixes,disciple,review_word
+4th,29,Review of prefixes and suffixes,promise,challenge_words
+4th,29,Review of prefixes and suffixes,tennis,challenge_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",fountain,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",wagon,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",given,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",cotton,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",captain,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",mountain,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",chosen,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",lemon,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",penguin,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",gallon,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",certain,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",siren,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",bargain,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",raisin,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",curtain,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",burden,pattern_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",removed,review_word
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",discovery,review_word
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",million,challenge_words
+4th,30,"Unstressed vowel patterns ain, en, in, on; unstressed syllables gain, tain",millennium,challenge_words
+4th,31,"Unstressed syllables sion, tion",direction,pattern_words
+4th,31,"Unstressed syllables sion, tion",permission,pattern_words
+4th,31,"Unstressed syllables sion, tion",mission,pattern_words
+4th,31,"Unstressed syllables sion, tion",salvation,pattern_words
+4th,31,"Unstressed syllables sion, tion",nation,pattern_words
+4th,31,"Unstressed syllables sion, tion",location,pattern_words
+4th,31,"Unstressed syllables sion, tion",station,pattern_words
+4th,31,"Unstressed syllables sion, tion",actions,pattern_words
+4th,31,"Unstressed syllables sion, tion",motion,pattern_words
+4th,31,"Unstressed syllables sion, tion",instructions,pattern_words
+4th,31,"Unstressed syllables sion, tion",discussion,pattern_words
+4th,31,"Unstressed syllables sion, tion",vaction,pattern_words
+4th,31,"Unstressed syllables sion, tion",section,pattern_words
+4th,31,"Unstressed syllables sion, tion",caution,pattern_words
+4th,31,"Unstressed syllables sion, tion",attention,pattern_words
+4th,31,"Unstressed syllables sion, tion",session,pattern_words
+4th,31,"Unstressed syllables sion, tion",mountain,review_word
+4th,31,"Unstressed syllables sion, tion",cotton,review_word
+4th,31,"Unstressed syllables sion, tion",ocean,challenge_words
+4th,31,"Unstressed syllables sion, tion",sugar,challenge_words
+4th,32,"Unstressed syllables sion, tion",picture,pattern_words
+4th,32,"Unstressed syllables sion, tion",catcher,pattern_words
+4th,32,"Unstressed syllables sion, tion",treasure,pattern_words
+4th,32,"Unstressed syllables sion, tion",posture,pattern_words
+4th,32,"Unstressed syllables sion, tion",future,pattern_words
+4th,32,"Unstressed syllables sion, tion",creature,pattern_words
+4th,32,"Unstressed syllables sion, tion",nature,pattern_words
+4th,32,"Unstressed syllables sion, tion",measure,pattern_words
+4th,32,"Unstressed syllables sion, tion",archer,pattern_words
+4th,32,"Unstressed syllables sion, tion",pitcher,pattern_words
+4th,32,"Unstressed syllables sion, tion",pasture,pattern_words
+4th,32,"Unstressed syllables sion, tion",structure,pattern_words
+4th,32,"Unstressed syllables sion, tion",pleasure,pattern_words
+4th,32,"Unstressed syllables sion, tion",preacher,pattern_words
+4th,32,"Unstressed syllables sion, tion",moisture,pattern_words
+4th,32,"Unstressed syllables sion, tion",capture,pattern_words
+4th,32,"Unstressed syllables sion, tion",section,review_word
+4th,32,"Unstressed syllables sion, tion",mission,review_word
+4th,32,"Unstressed syllables sion, tion",secure,challenge_words
+4th,32,"Unstressed syllables sion, tion",soldier,challenge_words
