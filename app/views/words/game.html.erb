@@ -1,0 +1,5 @@
+<h1><%= @list.contents %></h1>
+<script>
+var wordsString = '<%= @list.words.map(&:text).join(',')%>'
+var words = wordsString.split(',');
+</script>

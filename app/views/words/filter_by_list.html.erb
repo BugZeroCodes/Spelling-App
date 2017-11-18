@@ -1,5 +1,5 @@
 <h1>Words in <i><%= @list.contents %></i></h1>
 <div class="pull-right">
-  <%= link_to 'Play Game', words_game_path, class: 'btn' %>
+  <%= link_to 'Play Game', words_game_path(list_id: @list.id), class: 'btn' %>
 </div>
 <%= render 'table' %>

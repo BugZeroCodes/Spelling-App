@@ -72,7 +72,7 @@ class WordsController < ApplicationController
   end
 
   def game
-
+    @list = List.find(params[:list_id])
   end
 
   private
