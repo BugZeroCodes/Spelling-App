@@ -1,5 +1,55 @@
 <h1><%= @list.contents %></h1>
+<br>
+<br>
+<div class="pullright">
+  <div id="incorrectGuesses"></div>
+  <div id="correctGuesses"></div>
+  <h2>Your Guesses</h2>
+  <div id="guesses"></div>
+</div>
+<input type="text" name="guess" id="input" title='Please enter one letter.' />
+<input type="button" id="button" value='Guess' onclick='updateGuesses()' />
+<div id="blanks"></div>
 <script>
+// Functions
+function drawGuesses(guesses) {
+  $('#guesses').html('');
+  for (var i = 0; i < guesses.length; i++) {
+    $('#guesses').append(guesses[i] + ' ')
+  }
+}
+function chooseWord() {
+  return words[Math.floor(Math.random() * words.length)];
+}
+function updateGuesses() {
+  guesses.push($('#input').val());
+  $('#input').val('');
+  drawGuesses(guesses);
+  drawBlanks(word, guesses);
+}
+function drawBlanks(word, guesses) {
+  var countCorrect = 0;
+  $('#blanks').text('');
+  for (var i = 0; i < word.length; i++) {
+    if (guesses.includes(word[i])) {
+      $('#blanks').append(word[i]);
+      countCorrect += 1;
+    } else {
+      $('#blanks').append('_ ');
+    }
+  }
+  if (countCorrect === word.length) {
+    $('#input, #button').hide();
+    $('body').append('<a href>Reset</a>');
+  }
+}
+// Make arrays and call functions
+var guesses = [];
+var correctGuesses = [];
+var incorrectGuesses = [];
 var wordsString = '<%= @list.words.map(&:text).join(',')%>'
 var words = wordsString.split(',');
+var word = chooseWord().toLowerCase();
+drawBlanks(word, guesses);
 </script>
+<%= link_to 'Return to Main Page', :root %>
