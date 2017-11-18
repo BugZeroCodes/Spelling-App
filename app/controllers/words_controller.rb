@@ -23,12 +23,12 @@ class WordsController < ApplicationController
 
   def filter_by_word_type
     @words = Word.where(word_type: params[:word_type]).page(params[:page])
-    render 'index'
+    @word_type = params[:word_type]
   end
 
   def filter_by_list
     @words = Word.where(list_id: params[:list_id]).page(params[:page])
-    render 'index'
+    @list = List.find(params[:list_id])
   end
 
   # POST /words

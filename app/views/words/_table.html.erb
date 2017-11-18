@@ -1,0 +1,18 @@
+<table class='table'>
+  <thead>
+    <tr>
+      <th>Text</th>
+      <th>Word Type</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @words.each do |word| %>
+      <tr>
+        <td><%= link_to word.text, word %></td>
+        <td><%= link_to word.word_type, word_type_path(word.word_type) %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
