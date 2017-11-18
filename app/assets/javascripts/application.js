@@ -17,6 +17,6 @@
 //= require turbolinks
 //= require_tree .
 function change() {
-  var url = $('select').val();
-  window.location = url;
+  var grade_number = '/lists/by_grade_number/' + $('select').val();
+  window.location = grade_number;
 }
