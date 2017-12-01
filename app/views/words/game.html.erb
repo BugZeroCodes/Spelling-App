@@ -7,12 +7,23 @@
 <h1><%= @list.contents %></h1>
 <br>
 <br>
-<div class="pullright">
-  <div id="correctGuesses"></div><br />
-  <div id="incorrectGuesses"></div>
+  <div id="correctGuesses" class='panel panel-success'>
+    <div class='panel-heading'>Correct Guesses</div>
+    <br />
+    <div class="panel-body">
+
+    </div>
+  </div>
+  <br />
+  <div id="incorrectGuesses" class='panel panel-danger'>
+    <div class='panel-heading'>Incorrect Guesses</div>
+    <br />
+    <div class="panel-body">
+
+    </div>
+  </div>
   <h2>Your Guesses</h2>
   <div id="guesses"></div>
-</div>
 <p id='answer'></p>
 <input type="text" name="guess" id="input" title='Please enter one letter.' />
 <input type="button" id="button" value='Guess' onclick='updateGuesses()' />
@@ -22,17 +33,18 @@
 // Functions
 function drawGuesses(guesses) {
   $('#guesses').html('');
-  $('#correctGuesses, #incorrectGuesses').html('');
+  $('#correctGuesses .panel-body, #incorrectGuesses .panel-body').html('');
   for (var i = 0; i < guesses.length; i++) {
     if (word.includes(guesses[i])) {
-      $('#correctGuesses').append(guesses[i] + ' ')
+      $('#correctGuesses .panel-body').append(guesses[i] + ' ')
       correctGuesses.push(guesses[i]);
     } else {
-      $('#incorrectGuesses').append(guesses[i] + ' ')
+      $('#incorrectGuesses .panel-body').append(guesses[i] + ' ')
       incorrectGuesses.push(guesses[i]);
     }
     if (incorrectGuesses.length > 10) {
-      window.history.back();
+      alert('Retry, you have used all your guesses');
+      window.location.reload();
     }
   }
 }

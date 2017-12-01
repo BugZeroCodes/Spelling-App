@@ -1,6 +1,6 @@
 <h1>Words in <i><%= @list.contents %></i></h1>
 <div class="pull-right">
-  <%= link_to 'Play Game', words_game_path(list_id: @list.id), class: 'btn btn-success' %>
+  <%= link_to 'Play Hangman', words_game_path(list_id: @list.id), class: 'btn btn-success' %>
+  <%= link_to 'Return', :back, class: 'btn btn-warning' %>
 </div>
 <%= render 'table' %>
-<%= link_to 'Return', :back, class: 'btn' %>

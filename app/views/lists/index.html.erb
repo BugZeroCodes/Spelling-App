@@ -19,7 +19,9 @@
     <% @lists.each do |list| %>
       <tr>
         <th><%= list.number %></th>
-        <td><%= link_to list.contents, words_by_list_path(list_id: list.id) %></td>
+        <% if list.contents %>
+          <td><%= link_to list.contents, words_by_list_path(list_id: list.id) %></td>
+        <% end %>
       </tr>
     <% end %>
   </tbody>
