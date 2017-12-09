@@ -102,6 +102,7 @@ function drawGuesses(guesses) {
     }
   }
   $('.guesses-left').text(guessesLeft - incorrectGuesses.length);
+  console.log(guesses[guesses.length - 1]);
 }
 function chooseWord() {
   return words[Math.floor(Math.random() * words.length)];
