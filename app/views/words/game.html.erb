@@ -88,13 +88,10 @@ function drawGuesses(guesses) {
     if (word.includes(guesses[i])) {
       $('#correctGuesses .card-body').append(guesses[i] + ' ')
       correctGuesses.push(guesses[i]);
-      // document.getElementById('right').play();
     } else {
       $('#incorrectGuesses .card-body').append(guesses[i] + ' ')
       incorrectGuesses.push(guesses[i]);
-      // document.getElementById('wrong').play();
-    }
-    if (incorrectGuesses.length >= guessesLeft) {
+    } if (incorrectGuesses.length >= guessesLeft) {
       alert('Retry, you have used all your guesses');
       document.getElementById('fail').play();
       $('#input, #button, button[onclick="showAnswer()"]').remove();
@@ -102,7 +99,16 @@ function drawGuesses(guesses) {
     }
   }
   $('.guesses-left').text(guessesLeft - incorrectGuesses.length);
+<<<<<<< HEAD
   console.log(guesses[guesses.length - 1]);
+=======
+  var lastWord = guesses[guesses.length - 1];
+  if (word.includes(lastWord)) {
+    document.getElementById('right').play();
+  } else {
+    document.getElementById('wrong').play();
+  }
+>>>>>>> af211bfc5cadaec33701459b5f7cdf6008f82a53
 }
 function chooseWord() {
   return words[Math.floor(Math.random() * words.length)];
