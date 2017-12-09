@@ -12,13 +12,27 @@
  *
  */
 @import "bootstrap";
-// #incorrectGuesses {
-//   border: 5px solid red;
-//   border-radius: 5px;
-//   color: red;
-// }
-// #correctGuesses {
-//   border: 5px solid lime;
-//   border-radius: 5px;
-//   color: green;
-// }
+.jumbotron {
+  padding: 1.5rem 1rem;
+}
+a {
+  font-size: 23px;
+}
+.letter {
+  font-size: 24pt;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  border: solid 1px #000000;
+  padding: 2px;
+  margin-bottom: 50px;
+  float: left;
+  width: 35px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: green;
+}
+.letters {
+  font-family: Arial;
+  overflow-x: scroll;
+}

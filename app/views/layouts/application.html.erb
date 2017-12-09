@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Spelling</title>
-    <%= csrf_meta_tags %>
+<head>
+  <title>Spelling</title>
+  <%= csrf_meta_tags %>
 
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-  </head>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+</head>
 
-  <body>
-    <% if !notice == nil %>
-      <p id='notice' class='alert alert-info'><%= notice %></p>
-    <% end %>
-    <div class='container'>
-      <%= yield %>
+<body>
+  <div class='container'>
+    <div class="jumbotron">
+      <a href='<%= root_path %>'><%= image_tag asset_path 'logo.jpeg' %></a>
+      <h3>Spelling App</h3>
     </div>
-  </body>
+    <% if !notice == nil %>
+    <p id='notice' class='alert alert-info'><%= notice %></p>
+    <% end %>
+    <%= yield %>
+  </div>
+</body>
 </html>
