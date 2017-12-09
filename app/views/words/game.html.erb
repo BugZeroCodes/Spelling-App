@@ -29,8 +29,6 @@
     <h2>You have <span class='guesses-left'>6</span> guesses left.</h2>
     <div id="guesses"></div>
     <p id='answer'></p>
-    <input type="text" name="guess" id="input" title='Please enter one letter.' />
-    <input type="button" id="button" value='Guess' onclick='updateGuesses()' />
     <button name="button" onclick="showAnswer()">Show Answer</button>
     <div id="blanks" style="font-size: 45px; color: black;"></div>
     <%= link_to 'Return to Main Page', :root %>
@@ -90,15 +88,17 @@ function drawGuesses(guesses) {
     if (word.includes(guesses[i])) {
       $('#correctGuesses .card-body').append(guesses[i] + ' ')
       correctGuesses.push(guesses[i]);
-      document.getElementById('right').play();
+      // document.getElementById('right').play();
     } else {
       $('#incorrectGuesses .card-body').append(guesses[i] + ' ')
       incorrectGuesses.push(guesses[i]);
-      document.getElementById('wrong').play();
+      // document.getElementById('wrong').play();
     }
     if (incorrectGuesses.length >= guessesLeft) {
       alert('Retry, you have used all your guesses');
       document.getElementById('fail').play();
+      $('#input, #button, button[onclick="showAnswer()"]').remove();
+      $('#blanks').text(word);
     }
   }
   $('.guesses-left').text(guessesLeft - incorrectGuesses.length);
@@ -141,7 +141,9 @@ function showAnswer() {
   $('body').append('<a href class="btn">Retry!</a>');
 }
 $('.letter').click(function() {
-  $('#input').val($(this).text().toLowerCase());
+  guesses.push($(this).text().toLowerCase());
+  drawGuesses(guesses);
+  drawBlanks(word, guesses);
   document.getElementById('snap').play();
 });
 // Make arrays and call functions
