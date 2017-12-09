@@ -90,18 +90,21 @@ function drawGuesses(guesses) {
     if (word.includes(guesses[i])) {
       $('#correctGuesses .card-body').append(guesses[i] + ' ')
       correctGuesses.push(guesses[i]);
-      document.getElementById('right').play();
     } else {
       $('#incorrectGuesses .card-body').append(guesses[i] + ' ')
       incorrectGuesses.push(guesses[i]);
-      document.getElementById('wrong').play();
-    }
-    if (incorrectGuesses.length >= guessesLeft) {
+    } if (incorrectGuesses.length >= guessesLeft) {
       alert('Retry, you have used all your guesses');
       document.getElementById('fail').play();
     }
   }
   $('.guesses-left').text(guessesLeft - incorrectGuesses.length);
+  var lastWord = guesses[guesses.length - 1];
+  if (word.includes(lastWord)) {
+    document.getElementById('right').play();
+  } else {
+    document.getElementById('wrong').play();
+  }
 }
 function chooseWord() {
   return words[Math.floor(Math.random() * words.length)];
