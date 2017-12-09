@@ -99,16 +99,12 @@ function drawGuesses(guesses) {
     }
   }
   $('.guesses-left').text(guessesLeft - incorrectGuesses.length);
-<<<<<<< HEAD
-  console.log(guesses[guesses.length - 1]);
-=======
   var lastWord = guesses[guesses.length - 1];
   if (word.includes(lastWord)) {
     document.getElementById('right').play();
   } else {
     document.getElementById('wrong').play();
   }
->>>>>>> af211bfc5cadaec33701459b5f7cdf6008f82a53
 }
 function chooseWord() {
   return words[Math.floor(Math.random() * words.length)];
