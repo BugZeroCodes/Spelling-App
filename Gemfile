@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
 # Use Puma as the app server
@@ -51,6 +52,7 @@ group :development do
 end
 
 group :production do
+  gem 'rails_12factor'
   gem 'pg'
 end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
