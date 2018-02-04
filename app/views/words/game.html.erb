@@ -113,7 +113,6 @@ function updateGuesses() {
   if ($('#input').val().length > 1 || $('#input').val() === '') {
     alert('Please enter at least 1 letter.')
     $('#input').val('');
-    document.getElementById('input').focus();
   } else {
     guesses.push($('#input').val());
     $('#input').val('');
@@ -128,6 +127,7 @@ function drawBlanks(word, guesses) {
     if (guesses.includes(word[i])) {
       $('#blanks').append(word[i]);
       countCorrect += 1;
+      guessesLeft += 1
     } else {
       $('#blanks').append('_ ');
     }
