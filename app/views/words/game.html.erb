@@ -127,7 +127,6 @@ function drawBlanks(word, guesses) {
     if (guesses.includes(word[i])) {
       $('#blanks').append(word[i]);
       countCorrect += 1;
-      guessesLeft += 1
     } else {
       $('#blanks').append('_ ');
     }
