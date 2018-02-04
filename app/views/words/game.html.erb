@@ -94,7 +94,7 @@ function drawGuesses(guesses) {
     } if (incorrectGuesses.length >= guessesLeft) {
       alert('Retry, you have used all your guesses');
       document.getElementById('fail').play();
-      $('#.letters, button[onclick="showAnswer()"]').remove();
+      $('.letters, button[onclick="showAnswer()"]').remove();
       $('#blanks').text(word);
     }
   }
