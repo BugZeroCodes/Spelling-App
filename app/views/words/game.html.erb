@@ -78,8 +78,17 @@
   <p>Please update your browser.</p>
 </audio>
 <script>
-// Functions
 var guessesLeft = 6;
+// Ask them for the difficulty
+var difficulty = prompt('Which difficulty? (B for Beginner, E for Easy, M for Medium, and H for Hard.)')
+if (difficulty == 'B') {
+  guessesLeft = 1/0;
+} else if (difficulty == 'M') {
+  guessesLeft = 4;
+} else if (difficulty == 'H') {
+  guessesLeft = 3;
+}
+// Functions
 function drawGuesses(guesses) {
   $('#guesses').html('');
   $('#correctGuesses .card-body, #incorrectGuesses .card-body').html('');
