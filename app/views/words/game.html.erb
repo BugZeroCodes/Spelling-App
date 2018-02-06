@@ -121,12 +121,11 @@ function chooseWord() {
   return words[Math.floor(Math.random() * words.length)];
 }
 function updateGuesses() {
-  if ($('#input').val().length > 1 || $('#input').val() ==== '') {
+  if ($('#input').val().length > 1 || $('#input').val() === '') {
     alert('Please enter at least 1 letter.')
     $('#input').val('');
   } else {
     guesses.push($('#input').val());
-    $('#input').val('');
     drawGuesses(guesses);
     drawBlanks(word, guesses);
   }
