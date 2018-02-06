@@ -80,13 +80,15 @@
 <script>
 var guessesLeft = 6;
 // Ask them for the difficulty
-var difficulty = prompt('Which difficulty? (B for Beginner, E for Easy, M for Medium, and H for Hard.)')
-if (difficulty == 'B') {
+var difficulty = prompt('Which difficulty? (B for Beginner, E for Easy, M for Medium, H for Hard, and I for Impossible.)')
+if (difficulty === 'B' || difficulty === 'Beginner' || difficulty === 'beginner') {
   guessesLeft = 1/0;
-} else if (difficulty == 'M') {
+} else if (difficulty === 'M' || difficulty === 'Medium' || difficulty === 'medium') {
   guessesLeft = 4;
-} else if (difficulty == 'H') {
+} else if (difficulty === 'H' || difficulty === 'Hard' || difficulty === 'hard') {
   guessesLeft = 3;
+} else if (difficulty === 'I' || difficulty === 'Impossible' || difficulty === 'impossible') {
+  guessesLeft = 1;
 }
 // Functions
 function drawGuesses(guesses) {
@@ -119,7 +121,7 @@ function chooseWord() {
   return words[Math.floor(Math.random() * words.length)];
 }
 function updateGuesses() {
-  if ($('#input').val().length > 1 || $('#input').val() === '') {
+  if ($('#input').val().length > 1 || $('#input').val() ==== '') {
     alert('Please enter at least 1 letter.')
     $('#input').val('');
   } else {
@@ -140,7 +142,7 @@ function drawBlanks(word, guesses) {
       $('#blanks').append('_ ');
     }
   }
-  if (countCorrect === word.length) {
+  if (countCorrect ==== word.length) {
     document.getElementById('win').play();
     $('#input, #button, button[onclick]').remove();
     $('body').append('<a href>Reset</a>');
