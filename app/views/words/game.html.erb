@@ -80,10 +80,8 @@
 <script>
 var guessesLeft = 10;
 // Ask them for the difficulty
-var difficulty = prompt('Which difficulty? (B for Beginner, E for Easy, M for Medium, H for Hard, and I for Impossible.)')
-if (difficulty === 'B' || difficulty === 'Beginner' || difficulty === 'beginner') {
-  guessesLeft = 1/0;
-} else if (difficulty === 'M' || difficulty === 'Medium' || difficulty === 'medium') {
+var difficulty = prompt('Which difficulty? (E for Easy, M for Medium, H for Hard, and I for Impossible.)')
+ if (difficulty === 'M' || difficulty === 'Medium' || difficulty === 'medium') {
   guessesLeft = 5;
 } else if (difficulty === 'H' || difficulty === 'Hard' || difficulty === 'hard') {
   guessesLeft = 3;
