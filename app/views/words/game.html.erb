@@ -141,20 +141,18 @@ function drawBlanks(word, guesses) {
   }
   if (countCorrect === word.length) {
     document.getElementById('win').play();
-    $('#input, #button, button[onclick]').remove();
+    $('#input, #button, button[onclick], .letters').remove();
     $('body').append('<a href>Reset</a>');
   }
 }
 function showAnswer() {
-  $('#input, #button, button[onclick]').remove();
+  $('#input, #button, button[onclick], .letters').remove();
   $('#blanks').text('The correct answer is: ' + word);
   $('body').append('<a href class="btn">Retry!</a>');
 }
 $('.letter').click(function() {
   guesses.push($(this).text().toLowerCase());
-  if (difficulty == 'H' || difficulty == 'I') {
-    $(this).remove();
-  }
+  $(this).remove();
   drawGuesses(guesses);
   drawBlanks(word, guesses);
   document.getElementById('snap').play();
