@@ -152,9 +152,7 @@ function showAnswer() {
 }
 $('.letter').click(function() {
   guesses.push($(this).text().toLowerCase());
-  if (difficulty == 'H' || difficulty == 'I') {
-    $(this).remove();
-  }
+  $(this).remove();
   drawGuesses(guesses);
   drawBlanks(word, guesses);
   document.getElementById('snap').play();
