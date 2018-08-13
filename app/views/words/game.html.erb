@@ -104,7 +104,7 @@ function drawGuesses(guesses) {
       alert('Retry, you have used all your guesses');
       document.getElementById('fail').play();
       $('.letters, button[onclick="showAnswer()"]').remove();
-      $('#blanks').text(word);
+      $('#blanks').html(word);
     }
   }
   $('.guesses-left').text(guessesLeft - incorrectGuesses.length);
@@ -165,4 +165,5 @@ var wordsString = '<%= @list.words.map(&:text).join(',')%>'
 var words = wordsString.split(',');
 var word = chooseWord().toLowerCase();
 drawBlanks(word, guesses);
+updateGuesses()
 </script>

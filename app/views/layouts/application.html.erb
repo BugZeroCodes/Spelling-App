@@ -13,7 +13,7 @@
     <div class="jumbotron">
       <h3>Spelling App</h3>
     </div>
-    <% if !notice == nil %>
+    <% if notice %>
     <p id='notice' class='alert alert-info'><%= notice %></p>
     <% end %>
     <%= yield %>
